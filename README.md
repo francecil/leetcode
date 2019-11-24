@@ -1,5 +1,5 @@
 # leetcode
 
-本仓库初衷是用于存放 leetcode 题解的
+始于 leetcode 不止于 leetcode
 
-后来遇到一些算法题和面试笔试题，不想另建仓库，也会放这里，用另外的 label 标识
+包括一些其他的算法题和面试笔试题，用另外的 label 标识
